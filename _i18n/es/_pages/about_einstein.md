@@ -1,0 +1,5 @@
+Mi nombre es Cleison Armando Manrique Aguirre. Estudié en la Universidad Nacional San Agustín la carrera de 'Ingeniería civil'. Soy un apasionado de la tecnología. Me defino como un creador y una persona multidisciplinaria que quiere resolver problemas del mundo real pero, en un primer paso, aprovecha el conocimiento que ofrece Internet. Decidí estudiar 'Ingeniería Electrónica' y lo realicé durante dos años.
+
+Estoy abierto a adquirir cualquier tipo de conocimiento ya que todo está conectado y la tecnología impulsa el futuro y el presente. Definitivamente no me arrepentiría de aprender de electrónica, programación, mecánica y estructuras. Desde la universidad sentí curiosidad por las simulaciones por ordenador y luego obtuve una beca para estudiar "Tecnologías de fabricación avanzadas" siguiendo ambos caminos, 'Simulaciones por ordenador' y 'Tecnologías de materiales'.
+
+Creo que estamos vivos para aprender más de este mundo y utilizar ese conocimiento para mejorar nuestra situación actual.

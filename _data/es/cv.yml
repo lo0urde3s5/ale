@@ -1,14 +1,14 @@
-- title: General Information
+- title: Informacion general
   type: map
   contents:
-    - name: Full Name
+    - name: Nombres
       value: Cleison Armando Manrique Aguirre
-    - name: Date of Birth
-      value: 18th November 1997
-    - name: Languages
-      value: Spanish, English
+    - name: Fecha de nacimiento
+      value: 18 de Noviembre de 1997
+    - name: Lenguajes
+      value: Español, Ingles
 
-- title: Education
+- title: Educacion
   type: time_table
   contents:
     # - title: PhD
@@ -21,22 +21,22 @@
     #       contents:
     #         - Sub-description 1.
     #         - Sub-description 2.
-    - title: Civil engineer
-      institution: Saint Agustin National Univeristy, Arequipa, Peru
+    - title: Ingeniero civil
+      institution: Universidad Nacional de San Agustin, Arequipa, Peru
       year: 2022
-      description: Bachellors degree 
+      description: Bachiller y titulo profesional
       
 
-- title: Experience
+- title: Experiencia
   type: time_table
   contents:
-    - title: Structural engineer
-      institution: Independent
+    - title: Ingeniero estructural
+      institution: Independiente
       year: 2020-2022
       description:
-        - Design of concrete structures like buildings, watter tank reservoirs, wall retention .
-        - Design of metallic structures .
-        - CAD drawer.
+        - Diseño de estructuras de concreto armado (edificaciones, muros de contencion, tanques elevados) .
+        - Deseño de estructuras metalicas .
+        - Dibujante CAD.
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -68,38 +68,39 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
+- title: Premios y honores
   type: time_table
   contents:
     - year: 2013
       items: 
-        - Ranked first entrance exam to Saint Agustin National University to Electronic Engineering and Systems Engineering
+        - Primer puesto en el examen de ingreso a la Universidad Nacional de San Agustin a las especialidades de Ingenieria Electronica e Ingenieria de Sistemas.
     - year: 2014
       items: 
-        - ACCESS schoolarship to learn English
+        - ACCESS schoolarship - Ingles
     - year: 2018
       items: 
-        - Dissertation at CLAIO 2018 "low cost CNC machine for educational purposes"   
+        - CLAIO-2018, disertacion "CNC de bajo costo con propositos educativos"   
     - year: 2023
       items: 
-        - Winner projects contest CONEIMERA 2023 "Low cost clay 3d printer proposal"
+        - CONEIMERA 2023, concurso de proyectos 1er puesto, "Propuesta de impresora 3d en arcilla de bajo costo "
 
-- title: Academic Interests
+- title: Intereses Academicos
   type: nested_list
   contents:
-    - title: Programming
+    - title: Programacion
       items: 
-        - Programming in computer simulations.
-        - Grasshopper and python.
-    - title: Technology.
+        - Simulaciones computacionales (Fluidos y estructuras)
+        - Automatizacion de memorias de calculo y documentacion con grasshopper y python.
+    - title: Technologia
       items:
-        - Robotics in construction.
-        - Circuit board design
-    - title: Physics and engieneering
-        - Structural optimization 
-        - Automatization of design structures calculus using python or grasshopper .
+        - Robotica en la construccion.
+        - Diseño de circuitos electronicos.
+    - title: Fisica e ingenieria.
+        - Optimizacion estructural.
+        - Principios de la fisica cuantica  .
+        - Fisica clasica.
 
-- title: Other Interests
+- title: Otros intereses
   type: list
   contents:
-    - <u>Hobbies:</u> Cisclism, Swimming, Running.
+    - <u>Hobbies:</u> Cisclismo, Natacion, Atletismo, Futbol.

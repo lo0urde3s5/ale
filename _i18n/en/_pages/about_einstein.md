@@ -1,5 +1,6 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My name is Cleison Armando Manrique Aguirre . I've studied at [Saint Agustin National University](https://www.unsa.edu.pe/) the major of 'Civil engineering' . I am passinate about technology . I define myself as a maker and multidisciplinary guy that wants to solve real world problem but at a first step leverage the knowledge delivered by internet. I decided to sutdy 'Electronics Engineering' and I made it for two years. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am open to acquire any kind of knowledge since everything is connected and technology drives the future and the present I would definitely dont regret of learning from electronics , programming , mechanics and structures . Since university I was courious about computer simulations and then I gain a schoolarship to study "Advanced manufacturing technologies" following the both paths form 'Computer simulations' and 'Materials technologies'. 
+
+I belive we are alive to learn more from this world and use that knowlede to improve our current situation.

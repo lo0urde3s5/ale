@@ -1,13 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - CleisonManriqueAguirre
 
 github_repos:
-  - george-gca/multi-language-al-folio
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - CleisonManriqueAguirre/Cheap-clay-3d-printer---Arequipa
+  - CleisonManriqueAguirre/Grassopper-and-jupyternotebooks
+  - CleisonManriqueAguirre/BLENDER-ARDUINO-
+  - CleisonManriqueAguirre/Blender-sverchok-beam-deflection
+  - CleisonManriqueAguirre/OpenSCAD
+  - CleisonManriqueAguirre/cs-video-courses
+  - rossant/awesome-math
+  - Crul/CursoMecanicaTeoricaJavierGarcia
+  - ossu/computer-science
+  - weijie-chen/Linear-Algebra-With-Python
