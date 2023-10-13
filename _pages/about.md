@@ -7,7 +7,7 @@ permalink: /
 
 profile:
   align: right
-  image: cleison.jpg
+  image: ale.jpeg
   image_circular: false # crops the image to make it circular
 
 news: false  # includes a list of news items
