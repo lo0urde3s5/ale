@@ -1,6 +1,1 @@
-
-My name is Cleison Armando Manrique Aguirre . I've studied at [Saint Agustin National University](https://www.unsa.edu.pe/) the major of 'Civil engineering' . I am passinate about technology . I define myself as a maker and multidisciplinary guy that wants to solve real world problem but at a first step leverage the knowledge delivered by internet. I decided to sutdy 'Electronics Engineering' and I made it for two years. 
-
-I am open to acquire any kind of knowledge since everything is connected and technology drives the future and the present I would definitely dont regret of learning from electronics , programming , mechanics and structures . Since university I was courious about computer simulations and then I gain a schoolarship to study "Advanced manufacturing technologies" following the both paths form 'Computer simulations' and 'Materials technologies'. 
-
-I belive we are alive to learn more from this world and use that knowlede to improve our current situation.
+My name is Maria Alexandra Manrique Aguirre . I've studied at [Saint Agustin National University](https://www.unsa.edu.pe/) the major of 'Psychology' . My main activities are the preparation of psychological expertise, psychological reports, group therapies, cognitive behavioral therapies and university teaching. I have been a speaker at various congresses throughout Peru on the topic of psychological damage, forensic psychological evaluations, sexual violence, violence against women, expert opinion and criminalistics, etc.
